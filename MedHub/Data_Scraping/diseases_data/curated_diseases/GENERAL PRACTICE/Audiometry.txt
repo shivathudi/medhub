@@ -1,0 +1,54 @@
+
+ Audiometry 
+ 
+ 
+ 
+ To use the sharing features on this page, please enable JavaScript. 
+ An audiometry exam tests your ability to hear sounds. Sounds vary, based on their loudness (intensity) and the speed of sound wave vibrations (tone). Hearing occurs when sound waves stimulate the nerves of the inner ear. The sound then travels along nerve pathways to the brain. Sound waves can travel to the inner ear through the ear canal, eardrum, and bones of the middle ear (air conduction). They can also pass through the bones around and behind the ear (bone conduction). The INTENSITY of sound is measured in decibels (dB): A whisper is about 20 dB. Loud music (some concerts) is around 80 to 120 dB. A jet engine is about 140 to 180 dB. Sounds greater than 85 dB can cause hearing loss after a few hours. Louder sounds can cause immediate pain, and hearing loss can develop in a very short time. The TONE of sound is measured in cycles per second (cps) or Hertz: Low bass tones range around 50 to 60 Hz. Shrill, high-pitched tones range around 10,000 Hz or higher. The normal range of human hearing is about 20 to 20,000 Hz. Some animals can hear up to 50,000 Hz. Human speech is usually 500 to 3,000 Hz. How the Test is Performed 
+ 
+ The first steps are to see whether you need an audiogram. The procedure most often involves blocking one ear at a time and checking your ability to hear whispers, spoken words, or the sound of a ticking watch. A tuning fork may be used. The tuning fork is tapped and held in the air on each side of the head to test the ability to hear by air conduction. It is tapped and placed against the mastoid bone behind each ear to test bone conduction. Audiometry provides a more precise measurement of hearing. For this test, you wear earphones attached to the audiometer. Pure tones of controlled intensity are delivered to one ear at a time. You are will be asked to raise a hand, press a button, or otherwise indicate when you hear a sound. The minimum intensity (volume) required to hear each tone is graphed. A device called a bone oscillator is placed against the bone behind each ear (mastoid bone) to test bone conduction. How to Prepare for the Test 
+ 
+ No special steps are needed. How the Test will Feel 
+ 
+ There is no discomfort. The length of time varies. An initial screening may take about 5 to 10 minutes. Detailed audiometry may take about 1 hour. Why the Test is Performed 
+ 
+ This test can detect  hearing loss  at an early stage. It may also be used when you have hearing problems from any cause. Common causes of hearing loss include: Acoustic trauma Chronic ear infections Diseases of the inner ear Head injury Inherited conditions Medicines that can harm the inner ear, including certain antibiotics (such as neomycin or gentamycin), diuretics, and large doses of salicylates (such as aspirin) Occupational hearing loss Ruptured eardrum Normal Results 
+ 
+ Normal results include: The ability to hear a whisper, normal speech, and a ticking watch is normal. The ability to hear a tuning fork through air and bone is normal. In detailed audiometry, hearing is normal if you can hear tones from 250 to 8,000 Hz at 25 dB or lower. What Abnormal Results Mean 
+ 
+ There are many kinds and degrees of hearing loss. In some types, you only lose the ability to hear high or low tones, or you lose only air or bone conduction. The inability to hear pure tones below 25 dB indicates some hearing loss. The amount and type of hearing loss may give clues to the cause, and chances of recovering your hearing. The following conditions may affect test results: Acoustic neuroma Acoustic trauma Age-related hearing loss Alport syndrome Labyrinthitis Ménière disease Occupational hearing loss Otosclerosis Ruptured or perforated eardrum  Risks 
+ 
+ There is no risk. Considerations 
+ 
+ There are many kinds of hearing function tests. In simple screenings, the health care provider will make a loud noise and watch to see if it startles you. Detailed screenings include  brainstem auditory evoked response testing (BAER) . This test uses an  electroencephalogram  to detect brain wave activity when sounds are made. Another hearing test called otoacoustic emission testing (OAE) can be used in very young children (such as newborns).  Alternative Names 
+ 
+ Audiometry; Hearing test; Audiography (audiogram) Images 
+ 
+ 
+ Ear anatomy 
+ References 
+ 
+ Handelsman JA, Van Riper LA, Lesperance MM. Early detection and diagnosis of infant hearing impairment. In: Flint PW, Haughey BH, Lund V, et al, eds.  Cummings Otolaryngology: Head and Neck Surgery . 6th ed. Philadelphia, PA: Elsevier Saunders; 2015:chap 191. Kileny PR, Zwolan TA. Diagnostic audiology. In: Flint PW, Haughey BH, Lund V, et al, eds.  Cummings Otolaryngology: Head and Neck Surgery . 6th ed. Philadelphia, PA: Elsevier Saunders; 2015:chap 133. Read More 
+ 
+ Acoustic neuroma 
+ Acoustic trauma 
+ Age-related hearing loss 
+ Alport syndrome 
+ Ear infection - chronic 
+ Head injury - first aid 
+ Hearing loss 
+ Labyrinthitis 
+ Ménière disease 
+ Occupational hearing loss 
+ Otosclerosis 
+ Ruptured eardrum 
+ 
+ Review Date 5/18/2016 
+ 
+ 
+ Updated by: Neil K. Kaneshiro, MD, MHA, Clinical Assistant Professor of Pediatrics, University of Washington School of Medicine, Seattle, WA. Also reviewed by David Zieve, MD, MHA, Isla Ogilvie, PhD, and the A.D.A.M. Editorial team.     
+ Related MedlinePlus Health Topics 
+ 
+ Hearing Disorders and Deafness 
+ Hearing Problems in Children 
+ Browse the Encyclopedia

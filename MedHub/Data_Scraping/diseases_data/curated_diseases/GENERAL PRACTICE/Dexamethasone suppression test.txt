@@ -1,0 +1,39 @@
+
+ Dexamethasone suppression test 
+ 
+ 
+ 
+ To use the sharing features on this page, please enable JavaScript. 
+ Dexamethasone suppression test measures whether adrenocorticotrophic hormone ( ACTH ) secretion by the pituitary can be suppressed. How the Test is Performed 
+ 
+ During this test, you will receive dexamethasone. This is a strong man-made (synthetic) glucocorticoid medication. Afterward, your blood is drawn so that the cortisol level in your blood can be measured. There are two different types of dexamethasone suppression tests: low dose and high dose. Each type can either be done in an overnight (common) or standard (3-day) way (rare). There are different methods that may be used for either test. Examples of these methods are described below. Common: Low-dose overnight. You will get 1 mg of dexamethasone at 11 p.m., and a health care provider will draw your blood at 8 a.m. for a cortisol measurement. High-dose overnight. The provider will measure your cortisol on the morning of the test. Then you will receive 8 mg of dexamethasone at 11 p.m. Your blood is drawn at 8 a.m. the next day for a cortisol measurement.  Rare: Standard low-dose. Urine is collected over 3 days (stored in 24-hour collection containers) to measure cortisol. On day 2, you will get a low dose (0.5 mg) of dexamethasone by mouth every 6 hours for 48 hours. Standard high-dose. Urine is collected over 3 days (stored in 24-hour collection containers) for measurement of cortisol. On day 2, you will receive a high dose (2 mg) of dexamethasone by mouth every 6 hours for 48 hours.  Read and follow the instructions carefully. The most common cause of an abnormal test result is when instructions are not followed. How to Prepare for the Test 
+ 
+ The provider may tell you to stop taking certain medicines that can affect the test, including: Antibiotics Anti-seizure drugs such as corticosteroids (hydrocortisone, prednisone) Estrogen Oral birth control (contraceptives) Water pills (diuretics)  How the Test will Feel 
+ 
+ When the needle is inserted to draw blood, some people feel moderate pain. Others feel only a prick or stinging. Afterward, there may be some throbbing or slight bruising. This soon goes away. Why the Test is Performed 
+ 
+ This test is done when the doctor suspects that your body is producing too much cortisol. It is done to help diagnose  Cushing syndrome  and identify the cause. The low-dose test can help tell whether your body is producing too much ACTH. The high-dose test can help determine whether the problem is in the pituitary gland ( Cushing disease ). Dexamethasone is a man-made (synthetic) steroid that is similar to cortisol. It reduces ACTH release in normal people. Therefore, taking dexamethasone should reduce ACTH level and lead to a decreased cortisol level. If your pituitary gland produces too much ACTH, you will have an abnormal response to the low-dose test. But you can have a normal response to the high-dose test. Normal Results 
+ 
+ Cortisol level should decrease after you receive dexamethasone. Low dose: Overnight: 8 a.m. plasma cortisol lower than 1.8 micrograms per deciliter (mcg/dL) o 49.66 nanomoles per liter (nmol/L) Standard: Urinary free cortisol on day 3 lower than 10 micrograms per day (mcg/day) or 275.88 nmol/L High dose: Overnight: greater than 50% reduction in plasma cortisol Standard: greater than 90% reduction in urinary free cortisol  Normal value ranges may vary slightly among different laboratories. Some labs use different measurements or may test different specimens. Talk to your doctor about the meaning of your specific test results. What Abnormal Results Mean 
+ 
+ An abnormal response to the low-dose test may mean that you have abnormal release of cortisol ( Cushing syndrome ). This could be due to: Adrenal tumor that produces cortisol Pituitary tumor that produces ACTH Tumor in the body that produces ACTH  The high-dose test can help tell a pituitary cause (Cushing disease) from other causes. An ACTH blood test may also help identify the cause of high cortisol. Abnormal results vary based on the condition causing the problem. Cushing syndrome caused by an adrenal tumor: Low-dose test: no decrease in blood cortisol ACTH level: low In most cases, the high-dose test is not needed  Cushing syndrome related to an  ectopic ACTH-producing tumor : Low-dose test: no decrease in blood cortisol ACTH level: high High-dose test: no decrease in blood cortisol  Cushing syndrome caused by a pituitary tumor (Cushing disease) Low-dose test: no decrease in blood cortisol High-dose test: expected decrease in blood cortisol  False test results can occur from a variety of conditions, including different medicines, obesity, depression, and stress.  Risks 
+ 
+ Veins and arteries vary in size from one patient to another and from one side of the body to the other. Obtaining a blood sample from some people may be more difficult than from others. Other risks associated with having blood drawn are slight but may include: Excessive bleeding Fainting or feeling lightheaded Hematoma (blood accumulating under the skin) Infection (a slight risk any time the skin is broken)  Alternative Names 
+ 
+ DST; ACTH suppression test; Cortisol suppression test References 
+ 
+ Chernecky CC, Berger BJ. Dexamethasone suppressiong test - diagnostic. In: Chernecky CC, Berger BJ, eds.  Laboratory Tests and Diagnostic Procedures . 6th ed. Philadelphia, PA: Elsevier Saunders; 2013:437-438. Ferri FF. Cushing's disease and syndrome. In: Ferri FF, ed.  Ferri's Clinical Advisor 2016 . Philadelphia: PA Elsevier Mosby; 2016:385-386. Stewart PM, Newell-Price JDC. The adrenal cortex. In: Melmed S, Polonsky KS, Larsen PR, Kronenberg HM, eds.  Williams Textbook of Endocrinology . 13th ed. Philadelphia, PA: Elsevier Saunders; 2016:chap 15. Read More 
+ 
+ ACTH blood test 
+ Adrenal glands 
+ Cushing syndrome due to adrenal tumor 
+ Ectopic Cushing syndrome 
+ 
+ Review Date 10/28/2015 
+ 
+ 
+ Updated by: Brent Wisse, MD, Associate Professor of Medicine, Division of Metabolism, Endocrinology & Nutrition, University of Washington School of Medicine, Seattle, WA. Also reviewed by David Zieve, MD, MHA, Isla Ogilvie, PhD, and the A.D.A.M. Editorial team.   
+ Related MedlinePlus Health Topics 
+ 
+ Cushing's Syndrome 
+ Browse the Encyclopedia

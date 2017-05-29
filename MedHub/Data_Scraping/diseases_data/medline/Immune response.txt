@@ -1,0 +1,51 @@
+
+ Immune response 
+ 
+ 
+ 
+ To use the sharing features on this page, please enable JavaScript. 
+ The immune response is how your body recognizes and defends itself against bacteria, viruses, and substances that appear foreign and harmful. Information 
+ 
+ The immune system protects the body from possibly harmful substances by recognizing and responding to  antigens . Antigens are substances (usually proteins) on the surface of cells, viruses, fungi, or bacteria. Nonliving substances such as  toxins , chemicals, drugs, and foreign particles (such as a splinter) can also be antigens. The immune system recognizes and destroys, or tries to destroy, substances that contain antigens. Your body's cells have proteins that are antigens. These include a group of antigens called  HLA antigens . Your immune system learns to see these antigens as normal and usually does not react against them. INNATE IMMUNITY Innate, or nonspecific, immunity is the defense system with which you were born. It protects you against all antigens. Innate immunity involves barriers that keep harmful materials from entering your body. These barriers form the first line of defense in the immune response. Examples of innate immunity include: Cough  reflex
+  
+ Enzymes in tears and skin oils
+  
+ Mucus, which traps bacteria and small particles
+  
+ Skin
+  
+ Stomach acid
+  Innate immunity also comes in a protein chemical form, called innate humoral immunity. Examples include the body's complement system and substances called interferon and interleukin-1 (which causes fever). If an antigen gets past these barriers, it is attacked and destroyed by other parts of the immune system. ACQUIRED IMMUNITY Acquired immunity is immunity that develops with exposure to various antigens. Your immune system builds a defense against that specific antigen. PASSIVE IMMUNITY Passive immunity is due to  antibodies  that are produced in a body other than your own. Infants have passive immunity because they are born with antibodies that are transferred through the placenta from their mother. These antibodies disappear between ages 6 and 12 months. Passive immunization may also be due to injection of antiserum, which contains antibodies that are formed by another person or animal. It provides immediate protection against an antigen, but does not provide long-lasting protection. Immune serum globulin (given for hepatitis exposure) and  tetanus  antitoxin are examples of passive immunization. BLOOD COMPONENTS The immune system includes certain types of white blood cells. It also includes chemicals and proteins in the blood, such as antibodies, complement proteins, and interferon. Some of these directly attack foreign substances in the body, and others work together to help the immune system cells. Lymphocytes are a type of white blood cell. There are B and T type lymphocytes. 
+ B lymphocytes become cells that produce antibodies. Antibodies attach to a specific antigen and make it easier for the immune cells to destroy the antigen.
+  
+ T lymphocytes attack antigens directly and help control the immune response. They also release chemicals, known as cytokines, which control the entire immune response.
+  As lymphocytes develop, they normally learn to tell the difference between your own body tissues and substances that are not normally found in your body. Once B cells and T cells are formed, a few of those cells will multiply and provide "memory" for your immune system. This allows your immune system to respond faster and more efficiently the next time you are exposed to the same antigen. In many cases, it will prevent you from getting sick. For example, a person who has had chickenpox or has been immunized against chickenpox is immune from getting chickenpox again. Watch this video about: Immune response INFLAMMATION The inflammatory response (inflammation) occurs when tissues are injured by bacteria, trauma, toxins, heat, or any other cause. The damaged cells release chemicals including histamine, bradykinin, and prostaglandins. These chemicals cause blood vessels to leak fluid into the tissues, causing  swelling . This helps isolate the foreign substance from further contact with body tissues. The chemicals also attract white blood cells called phagocytes that "eat" germs and dead or damaged cells. This process is called phagocytosis. Phagocytes eventually die. Pus is formed from a collection of dead tissue, dead bacteria, and live and dead phagocytes. Watch this video about: Phagocytosis IMMUNE SYSTEM DISORDERS AND ALLERGIES Immune system disorders occur when the immune response is directed against body tissue, is excessive, or is lacking.  Allergies  involve an immune response to a substance that most people's bodies perceive as harmless. IMMUNIZATION Vaccination ( immunization ) is a way to trigger the immune response. Small doses of an antigen, such as dead or weakened live viruses, are given to activate immune system "memory" (activated B cells and sensitized T cells). Memory allows your body to react quickly and efficiently to future exposures. Watch this video about: Vaccines COMPLICATIONS DUE TO AN ALTERED IMMUNE RESPONSE An efficient immune response protects against many diseases and disorders. An inefficient immune response allows diseases to develop. Too much, too little, or the wrong immune response causes immune system disorders. An overactive immune response can lead to the development of  autoimmune diseases , in which antibodies form against the body's own tissues.  Complications from altered immune responses include: 
+ Allergy or hypersensitivity Anaphylaxis , a life-threatening allergic reaction Autoimmune disorders Graft versus host disease , a complication of a bone marrow transplant Immunodeficiency disorders Serum sickness Transplant rejection  Alternative Names 
+ 
+ Innate immunity; Humoral immunity; Cellular immunity; Immunity; Inflammatory response; Acquired (adaptive) immunity Images 
+ 
+ 
+ Immune system structures 
+ Phagocytosis 
+ References 
+ 
+ Abbas AK, Lichtman AH, Pillai S. Properties and overview of immune responses. In: Abbas AK, Lichtman AH, Pillai S, eds.  Cellular and Molecular Immunology.  8th ed. Philadelphia, PA: Elsevier Saunders; 2015:chap 1. Craft J. The adaptive immune system. In: Goldman L, Schafer AI, eds.  Goldman's Cecil Medicine . 25th ed. Philadelphia, PA: Elsevier Saunders; 2016:chap 46. Crow MK. The innate immune system. In: Goldman L, Schafer AI, eds.  Goldman's Cecil Medicine . 25th ed. Philadelphia, PA: Elsevier Saunders; 2016:chap 45. 
+  Firestein GS. Mechanisms of inflammation and tissue repair. In: Goldman L, Schafer AI, eds.  Goldman's Cecil Medicine . 25th ed. Philadelphia, PA: Elsevier Saunders; 2016:chap 48. Read More 
+ 
+ Avian influenza 
+ Flu 
+ H1N1 influenza (Swine flu) 
+ 
+ Patient Instructions 
+ 
+ Colds and the flu - what to ask your doctor - adult 
+ Colds and the flu - what to ask your doctor - child 
+ When your baby or infant has a fever 
+ Review Date 3/20/2016 
+ 
+ 
+ Updated by: Stuart I. Henochowicz, MD, FACP, Associate Clinical Professor of Medicine, Division of Allergy, Immunology, and Rheumatology, Georgetown University Medical School, Washington, DC. Also reviewed by David Zieve, MD, MHA, Isla Ogilvie, PhD, and the A.D.A.M. Editorial team.    
+ Related MedlinePlus Health Topics 
+ 
+ Immune System and Disorders 
+ Browse the Encyclopedia

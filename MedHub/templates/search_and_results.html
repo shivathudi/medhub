@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>MedHub</title>	
+
+    <link     href='http://fonts.googleapis.com/css?family=Sintony:400,700'     rel='stylesheet' type='text/css'>
+
+    <style type="text/css">    
+      body
+      {
+        background-color:666;
+      }
+
+      h1
+      {
+        font-size:48px;
+        margin-top:0;
+        font-family:Arial, sans-serif;
+        text-shadow:2px 0 15px #292929;
+        letter-spacing:4px;
+        text-decoration:none;
+        color:#5BF;
+      }
+
+      #banner
+      {
+        width:1200px;
+        height:70px;
+        text-align:center;
+        background-image:url("../static/home-banner.jpg");
+        background-repeat:no-repeat;
+        border-radius:5px;
+        margin:10px auto auto;
+        padding:80px 0;
+      }
+
+      .lead
+      {
+        background-color:rgba(255,255,255,0.6);
+        border-radius:3px;
+        box-shadow:rgba(0,0,0,0.2) 0 1px 3px;
+        font-family:Sintony, sans-serif;
+      }
+    </style>
+
+  </head>  
+
+  <body>
+    <div id="banner">
+      <h1>MedHub</h1>
+      <p class="lead">Make healthcare accessible.</p>
+    </div>
+    
+    <div class="col-lg-6">
+	<p>Enter the symptoms you are suffering from into the search box below</p>
+	<form action="/diseases" method="POST">
+    Symptoms:  <input type="text" name="symptoms"/>
+    <input type="submit" value="Submit">
+</form>
+    </div>
+<br>
+{% if result %}
+<p>Results for symptoms: {{ text }}</p>
+<form action="/doctors" method="POST">
+<table style="width:100%">
+  <tr>
+    <th>Select</th>
+    <th>Disease</th> 
+    <th>Specialty</th>
+    <th>Description</th>
+    <th>Probability</th>
+  </tr>
+  {% for disease, prob, desc, specialty in result %}
+            <tr>
+               <td> <input type="checkbox" name="specialty_check" value = "{{ specialty }}" > </td>
+               <td> {{ disease }} </td>
+               <td> {{ specialty }} </td>
+               <td> {{ prob }} </td>
+               <td> {{ desc }} </td>
+            </tr>       
+  {% endfor %}
+</table>
+<br>
+<input type="submit" value="Continue">
+</form>
+{% endif %}
+</body>
+</html>

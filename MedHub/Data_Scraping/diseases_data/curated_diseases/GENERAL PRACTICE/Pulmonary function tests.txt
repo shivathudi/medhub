@@ -1,0 +1,54 @@
+
+ Pulmonary function tests 
+ 
+ 
+ 
+ To use the sharing features on this page, please enable JavaScript. 
+ Pulmonary function tests are a group of tests that measure breathing and how well the lungs are functioning. How the Test is Performed 
+ 
+ Spirometry measures airflow. By measuring how much air you exhale, and how quickly you exhale, spirometry can evaluate a broad range of lung diseases. In a spirometry test, while you are sitting, you breathe into a mouthpiece that is connected to an instrument called a spirometer. The spirometer records the amount and the rate of air that you breathe in and out over a period of time. When standing, some numbers might be slightly different. For some of the test measurements, you can breathe normally and quietly. Other tests require forced inhalation or exhalation after a deep breath. Sometimes, you will be asked to inhale a different gas or a medicine to see how it changes your test results. Lung volume measurement can be done in two ways: The most accurate way is called body plethysmography. You sit in a clear airtight box that looks like a phone booth. The technologist asks you to breathe in and out of a mouthpiece. Changes in pressure inside the box help determine the lung volume. Lung volume can also be measured when you breathe nitrogen or helium gas through a tube for a certain period of time. The concentration of the gas in a chamber attached to the tube is measured to estimate the lung volume. To measure  diffusion capacity , you breathe a harmless gas, called a tracer gas, for a very short time, often for only one breath. The concentration of the gas in the air you breathe out is measured. The difference in the amount of gas inhaled and exhaled measures how effectively gas travels from the lungs into the blood. This test allows the doctor to estimate how well the lungs move oxygen from the air into the bloodstream. How to Prepare for the Test 
+ 
+ Do not eat a heavy meal before the test. Do not smoke for 4 to 6 hours before the test. You will get specific instructions if you need to stop using bronchodilators or other inhaled medicines. You may have to breathe in medicine before or during the test. How the Test will Feel 
+ 
+ Since the test involves some forced breathing and rapid breathing, you may have some temporary shortness of breath or lightheadedness. You breathe through a tight-fitting mouthpiece and you will have nose clips. If you are claustrophobic, the part of the test in the booth may feel uncomfortable. Follow instructions for using the mouthpiece of the spirometer. A poor seal around the mouthpiece may cause results that aren't accurate. Why the Test is Performed 
+ 
+ Pulmonary function tests are done to: Diagnose certain types of lung disease, such as  asthma ,  bronchitis , and  emphysema Find the cause of  shortness of breath Measure whether exposure to chemicals at work affects lung function Check lung function before someone has surgery Assess the effect of medication Measure progress in disease treatment Normal Results 
+ 
+ Normal values are based on your age, height, ethnicity, and gender. Normal results are expressed as a percentage. A value is usually considered abnormal if it is approximately less than 80% of your predicted value. Normal value ranges may vary slightly among different laboratories. Talk to your doctor about the meaning of your specific test results. Different measurements that may be found on your report after pulmonary function tests include: Diffusion capacity to carbon monoxide (DLCO) 
+  Expiratory reserve volume (ERV) Forced vital capacity (FVC) Forced expiratory volume in 1 second (FEV1) Forced expiratory flow 25% to 75% (FEF25-75)
+  Functional residual capacity (FRC) Maximum voluntary ventilation (MVV) Residual volume (RV) Peak expiratory flow (PEF). Slow vital capacity (SVC) Total lung capacity (TLC) What Abnormal Results Mean 
+ 
+ Abnormal results usually mean that you may have chest or lung disease. Some lung diseases (such as emphysema, asthma, chronic bronchitis, and infections) can make the lungs contain too much air and take longer to empty. These lung diseases are called obstructive lung disorders. Other lung diseases make the lungs scarred and smaller so that they contain too little air and are poor at transferring oxygen into the blood. Examples of these types of illnesses include: Extreme overweight Pulmonary fibrosis (scarring or thickening of the lung tissue) Sarcoidosis  and  scleroderma Muscular weakness can also cause abnormal test results, even if the lungs are normal, that is similar to the diseases that cause smaller lungs. Risks 
+ 
+ There is a small risk of  collapsed lung  (pneumothorax) in people with a certain type of lung disease. The test should not be given to a person who has experienced a recent heart attack, has certain other types of heart disease, or has had a recent collapsed lung. Alternative Names 
+ 
+ PFTs; Spirometry; Spirogram; Lung function tests Images 
+ 
+ 
+ Spirometry 
+ Match test 
+ References 
+ 
+ 
+
+Gold WM, Koth LL. Pulmonary function testing. In: Broaddus VC, Mason RJ, Ernst JD, et al, eds. Murray and  Nadel's Textbook of Respiratory Medicine.  6th ed. Philadelphia, PA: Elsevier Saunders; 2016:chap 25. Scanlon PD. Respiratory function: mechanisms and testing. In: Goldman L, Schafer AI, eds.  Goldman's Cecil Medicine.  25th ed. Philadelphia, PA: Elsevier Saunders; 2016:chap 85. Read More 
+ 
+ Asthma 
+ Breathing difficulty 
+ Bronchitis - acute 
+ 
+ Review Date 11/19/2015 
+ 
+ 
+ Updated by: Denis Hadjiliadis, MD, MHS, Associate Professor of Medicine, Pulmonary, Allergy, and Critical Care, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA. Also reviewed by David Zieve, MD, MHA, Isla Ogilvie, PhD, and the A.D.A.M. Editorial team. 
+ Related MedlinePlus Health Topics 
+ 
+ Asthma 
+ Breathing Problems 
+ COPD 
+ Emphysema 
+ Interstitial Lung Diseases 
+ Lung Diseases 
+ Pulmonary Fibrosis 
+ Sarcoidosis 
+ Browse the Encyclopedia

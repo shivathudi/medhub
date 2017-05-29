@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="/static/style.css"/>
+</head>
+<body>
+<h1>Doctors</h1>
+<br>
+<form action = "/doctors/results" method="POST">
+    Specialties:  <input type="text" name="specialties" value = "{{ text }}"/> <br> <br>
+    Address:  <input type="text" name="address"/> <br> <br>
+    Max distance: <input type="text" name="max_dist"/> <br> <br>
+    Number of doctors to show: <input type="text" name="num_doctors"/> <br> <br>
+    <input type="submit" value="Submit">
+</form>
+<br>
+{% if result %}
+<table style="width:100%">
+  <tr>
+    <th>Last Name</th> 
+    <th>First Name</th>
+    <th>Distance</th>
+    <th>Rating</th>
+    <th>Address</th>
+    <th>Primary Specialty</th>
+    <th>Medical School</th>
+    <th>Phone Number</th>
+  </tr>
+  {% for l_name, f_name, dist, rating, addr, specialty, med_school, phone_number in result %}
+            <tr>
+               <td> {{ l_name }} </td>
+               <td> {{ f_name }} </td>
+               <td> {{ dist }} </td>
+               <td> {{ rating }} </td>
+               <td> {{ addr }} </td>
+               <td> {{ specialty }} </td>
+               <td> {{ med_school }} </td>
+               <td> {{ phone_number }} </td>
+            </tr>       
+  {% endfor %}
+</table>
+<br>
+{% endif %}
+</body>
+</html>
